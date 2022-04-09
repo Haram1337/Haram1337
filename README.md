@@ -13,5 +13,5 @@
 ### <p align="center">👀 &nbsp;Mes Fans</p>
 <br>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Valha1337/?theme=omni&count.svg" />
+  <img src="https://profile-counter.glitch.me/Valha1337/count.svg" />
 </p>
