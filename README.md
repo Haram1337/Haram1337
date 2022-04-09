@@ -1,4 +1,4 @@
-### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
+### <p align="center">⚙️ &nbsp;Mes Statistiques D'InfoMan</p>
 <br>
 <p align="center">
 <a href="https://github.com/Valha1337">
@@ -10,8 +10,8 @@
 
 -----
 
-### <p align="center">👀 &nbsp;Visiteurs</p>
+### <p align="center">👀 &nbsp;Mes Fans</p>
 <br>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Valha1337/count.svg" />
+  <img src="https://profile-counter.glitch.me/Valha1337/?theme=omni&count.svg" />
 </p>
